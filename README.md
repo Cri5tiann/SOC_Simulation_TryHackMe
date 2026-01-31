@@ -1,6 +1,8 @@
 # 🛡️ SOC Portfolio: Incident Response Simulation
 **Platform:** TryHackMe | **Stack:** Splunk, Sysmon, Windows 10
 
+![Final Metric Dashboard](png/results1.png)
+
 ## 🎯 Executive Summary
 This project is supposed to showcases my ability to triage high-volume alert queues and perform deep-dive forensics. As you can read below, I successfully identified a coordinated data exfiltration campaign while maintaining high-fidelity logging by filtering benign system noise.<br>
 
